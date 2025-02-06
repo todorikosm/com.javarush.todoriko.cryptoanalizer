@@ -13,6 +13,7 @@ public class Constants {
     public static final String IO_ERROR_TEXT = "IO ошибка";
     public static final String MENU_1 = "Вы выбрали зашифровать файл.";
     public static final String MENU_2 = "Вы выбрали расшифровать файл.";
+    public static final String MENU_3 = "Программа завершена.";
     public static final String ENTER_FILE = "Введите адрес и имя исходного файла:";
     public static final String ENTER_KEY = "Введите ключ шифрования (целое число больше 0) или exit для выхода в главное меню:";
     public static final String ENTER_RESULT_FILE = "Введите имя файла для создания файла с результатом:";
