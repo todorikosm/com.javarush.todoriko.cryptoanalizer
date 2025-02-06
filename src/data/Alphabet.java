@@ -10,5 +10,4 @@ public class Alphabet {
             '!', '?', ' ', '\n', '\r', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9')
     );
     public static final int ALPHABET_LENGTH = ALPHABET.size();
-    public static final int ALPHABET_INDEX = ALPHABET.indexOf(' ');
 }
