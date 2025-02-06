@@ -37,11 +37,9 @@ public class Constants {
     //fileManager
     public static final String SUCCESS_ENCRYPTION_TEXT = "Успех! Результат записан в файле по адресу: ";
     public static final String SUCCESS_READ = "Файл успешно прочитан...";
-    public static final String SUCCESS_READ_FIRST_LINE = "Первая строка файла успешно прочитана...";
     public static final String ERROR_READ_SMALL_FILE = "Что-то пошло не так при чтении маленького файла.";
     public static final String ERROR_WRITE_SMALL_FILE = "Что-то пошло не так при записи маленького файла.";
     public static final String ERROR_READ_BIG_FILE = "Что-то пошло не так при чтении большого файла.";
     public static final String ERROR_WRITE_BIG_FILE = "Что-то пошло не так при записи большого файла.";
     public static final String FILE_IS_EMPTY = "Ошибка! Файл пустой.";
-    public static final String LESS_THEN_1000 = "Ошибка! В файле меньше 1000 символов.";
 }
